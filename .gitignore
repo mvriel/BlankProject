@@ -1,3 +1,12 @@
 toolbelt.log
+workers/unity/zip_toolbelt.log
+workers/unity/\\client.log*
+
 spatialos_worker_packages.json
 build/
+
+# when using the new schema system
+.protocache
+
+# when including the schema folder as module
+schema/schema.iml
